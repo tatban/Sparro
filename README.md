@@ -1,4 +1,4 @@
-# SPaRo: Split Pair and Random Rotate
+# SPaRRo: Split Pair and Random Rotate
 
 ## Overview
 
