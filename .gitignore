@@ -1,0 +1,6 @@
+.idea
+.git
+*.pyc
+__pycache__
+*/__pycache__/
+matched_result.json

@@ -1,0 +1,33 @@
+[{
+  "name": "Abc",
+  "email": "abc@uni-tuebingen.de",
+  "role": null,
+  "match": null,
+  "prev_match": null,
+  "capacity": 1
+},
+{
+  "name": "Def",
+  "email": "def@uni-tuebingen.de",
+  "role": null,
+  "match": null,
+  "prev_match": null,
+  "capacity": 1
+},
+{
+  "name": "Ghi",
+  "email": "Ghi@uni-tuebingen.de",
+  "role": null,
+  "match": null,
+  "prev_match": null,
+  "capacity": 1
+},
+{
+  "name": "Jkl",
+  "email": "jkl@uni-tuebingen.de",
+  "role": null,
+  "match": null,
+  "prev_match": null,
+  "capacity": 1
+}
+]
